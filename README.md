@@ -1,2 +1,2 @@
 # FirstGitRepo
-mashuang's first try by using git CVS
+mashuang's first try by using git VCS
